@@ -33,7 +33,7 @@ DB_PASSWORD=suaSenha
 
 
 Para acompanhar e testar a API, recomendamos o uso do Insomnia.
-![alt text](image.png)
+![alt text](image-2.png)
 
 
 Fiquem com Deus qualquer dúvida sobre a api me chama no linkedin.
